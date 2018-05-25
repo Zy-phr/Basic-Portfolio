@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #777777;
+    background: #ffffff; 
+    border-bottom: #080707;
+
+}
+
+ul {
+    display: inline;
+}
+
+section {
+    background-image: url("images/dust_scratches.png");
+}
+
+footer {
+    padding: 20px;  
+    margin-bottom: 20px;
+    color: #777777;
+    background: #666666;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+}
