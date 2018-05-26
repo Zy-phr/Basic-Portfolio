@@ -70,6 +70,15 @@ section {
 
 }
 
+#AboutMe {
+    margin:150px;
+    width: 960px;
+    padding: 200px;
+    background: #ffffff;
+    float: left;
+    
+}
+
 footer {
     padding: 20px;  
     margin-bottom: 0px;
