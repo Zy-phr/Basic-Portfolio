@@ -20,7 +20,6 @@ h2 {
     font-family: 'Georgia', Times,Times New Roman, serif;
     color: #4aaaa5;
     font-size: 25px;
-
 }
 
 #Name {
@@ -29,7 +28,6 @@ h2 {
     float: middle;
     padding:16px; 
     font-size: 25px;
-
 }
 
 #About {
@@ -37,8 +35,6 @@ h2 {
     color:#777777;
     background: #ffffff;
     margin-left: 400px;
-    border-right-style: solid;
-    border-right-color: #cccccc;
 }
 
 #Portfolio {
@@ -52,7 +48,11 @@ h2 {
     float: middle;
     color:#777777;
     background: #ffffff;
-    margin-left: 50px;
+    margin-left: 50px;  
+}
+
+.tab {
+    font-family: 'Arial', 'Helvetica Neue', Helvetoca, sans-serif;
 }
 
 li {
@@ -62,7 +62,7 @@ li {
 section {
 
     font-family: 'Arial', 'Helvetica Neue', Helvetoca, sans-serif;
-    background-image: "images/dust_scratches.png";
+    background-image: url(../images/dust_scratches.png);
     border-bottom-style: solid;
     border-bottom-color: #4aaaa5;
     border-top-color: #cccccc;
@@ -82,6 +82,5 @@ footer {
 .copyright {
     color: #777777;
     line-height: 10px;
-    font-size: 0.7em;
-    bottom: 0;
+    font-size: 0.9em;
 }
