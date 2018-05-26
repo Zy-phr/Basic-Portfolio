@@ -25,21 +25,21 @@ h2 {
 
 #About {
     float: middle;
-    color:#777777;
+    color:#cccccc;
     background: #ffffff;
     margin-left: 500px;
 }
 
 #Portfolio {
     float: middle;
-    color:#777777;
+    color:#cccccc;
     background: #ffffff;
     margin-left: 40px;
 }
 
 #Contact {
     float: middle;
-    color:#777777;
+    color:#cccccc;
     background: #ffffff;
     margin-left: 40px; 
     margin-right: 50px; 
@@ -61,6 +61,7 @@ section {
     border-bottom-color: #4aaaa5;
     border-top-color: #cccccc;
     border-top-style: solid;
+    color: #777777;
 }
 
 .container {
@@ -69,6 +70,9 @@ section {
     margin-left: 150px;
     margin-bottom: 100px;
     margin-top: 25px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc
 }
 
 #full {
@@ -79,6 +83,9 @@ section {
 #AboutMe {
     float: left;
     margin-left: 20px;
+    margin-top: 40px;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
 }
 
 #pic1 {
@@ -88,16 +95,16 @@ section {
     margin-left: 20px; 
 }
 
-#division {
-    margin-top: 100000px;
-}
-
 p {
     margin-top: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: left;
+    line-height: 2;
 }
 
 footer {
-    padding: 20px;  
+    padding: 0px;  
     margin-bottom: 0px;
     color: #777777;
     background: #666666;
@@ -109,4 +116,5 @@ footer {
     color: #777777;
     line-height: 10px;
     font-size: 0.9em;
+    text-align: center;
 }
