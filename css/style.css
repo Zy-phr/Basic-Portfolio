@@ -135,3 +135,14 @@ footer {
     width: 900px;
     line-height: 4;
 }
+
+#PortfolioMe {
+    float: left;
+    margin-left: 30px;
+    margin-top: 0px;
+    text-align: left;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+    width: 900px;
+    line-height: 4;
+}
