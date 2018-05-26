@@ -28,7 +28,7 @@ h2 {
     background: #4aaaa5;
     float: middle;
     padding:16px; 
-    font-size: 25px
+    font-size: 25px;
 
 }
 
@@ -72,9 +72,16 @@ section {
 
 footer {
     padding: 20px;  
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     color: #777777;
     background: #666666;
     border-top-color: #4aaaa5;
     border-top-style: solid;
+}
+
+.copyright {
+    color: #777777;
+    line-height: 10px;
+    font-size: 0.7em;
+    bottom: 0;
 }
