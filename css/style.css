@@ -83,13 +83,16 @@ section {
 #AboutMe {
     float: left;
     margin-left: 20px;
-    margin-top: 40px;
+    margin-top: 0px;
+    text-align: left;
     border-bottom-style: solid;
     border-bottom-color: #cccccc;
+    width: 920px;
+    line-height: 4;
 }
 
 #pic1 {
-    margin-top: 40px;
+    margin-top: 10px;
     float: left;
     margin-right: 40px;
     margin-left: 20px; 
@@ -97,10 +100,11 @@ section {
 
 p {
     margin-top: 10px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 20px;
     text-align: left;
     line-height: 2;
+    margin-left: 20px;
 }
 
 footer {
