@@ -8,17 +8,51 @@ body {
     margin: 0;
     background: #ffffff;
 }
-
-
-header {
-    padding: 0px;
-    margin-bottom: 0px;
-    color: #777777;
+container {
+    padding: 10px;
+    margin-bottom: 10px;
+    color: #ffffff;
     background: #ffffff;
+    width:40%;
 }
 
 h2 {
     font-family: 'Georgia', Times,Times New Roman, serif;
+    color: #4aaaa5;
+    font-size: 25px;
+
+}
+
+#Name {
+    color:#ffffff;
+    background: #4aaaa5;
+    float: middle;
+    padding:16px; 
+    font-size: 25px
+
+}
+
+#About {
+    float: middle;
+    color:#777777;
+    background: #ffffff;
+    margin-left: 400px;
+    border-right-style: solid;
+    border-right-color: #cccccc;
+}
+
+#Portfolio {
+    float: middle;
+    color:#777777;
+    background: #ffffff;
+    margin-left: 50px;
+}
+
+#Contact {
+    float: middle;
+    color:#777777;
+    background: #ffffff;
+    margin-left: 50px;
 }
 
 li {
@@ -26,12 +60,14 @@ li {
 }
 
 section {
-   font-family: 'Arial', 'Helvetica Neue', Helvetoca, sans-serif;
-   background-image: "images/dust_scratches.png";
-   border-top-style: solid;
-   border-top-color: #dddddd;
-   border-bottom-style: solid;
-   border-bottom-color: #4aaaa5;
+
+    font-family: 'Arial', 'Helvetica Neue', Helvetoca, sans-serif;
+    background-image: "images/dust_scratches.png";
+    border-bottom-style: solid;
+    border-bottom-color: #4aaaa5;
+    border-top-color: #cccccc;
+    border-top-style: solid;
+
 }
 
 footer {
