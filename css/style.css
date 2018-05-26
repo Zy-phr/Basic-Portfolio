@@ -8,13 +8,6 @@ body {
     margin: 0;
     background: #ffffff;
 }
-container {
-    padding: 10px;
-    margin-bottom: 10px;
-    color: #ffffff;
-    background: #ffffff;
-    width:40%;
-}
 
 h2 {
     font-family: 'Georgia', Times,Times New Roman, serif;
@@ -34,21 +27,22 @@ h2 {
     float: middle;
     color:#777777;
     background: #ffffff;
-    margin-left: 400px;
+    margin-left: 500px;
 }
 
 #Portfolio {
     float: middle;
     color:#777777;
     background: #ffffff;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 #Contact {
     float: middle;
     color:#777777;
     background: #ffffff;
-    margin-left: 50px;  
+    margin-left: 40px; 
+    margin-right: 50px; 
 }
 
 .tab {
@@ -67,16 +61,19 @@ section {
     border-bottom-color: #4aaaa5;
     border-top-color: #cccccc;
     border-top-style: solid;
+}
 
+.container {
+    background: #ffffff;
+    width: 960px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+    margin-top: 25px;
 }
 
 #AboutMe {
-    margin:150px;
-    width: 960px;
-    padding: 200px;
-    background: #ffffff;
-    float: left;
-    
+   float: left;
+   margin-left: 20px;
 }
 
 footer {
