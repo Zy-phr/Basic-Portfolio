@@ -136,6 +136,25 @@ footer {
     line-height: 4;
 }
 
+#button1 {
+    color: #ffffff;
+    background: #4aaaa5;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 850px;
+}
+
+#Contactlist {
+    line-height: 1;
+    padding-bottom: 1px;
+}
+
+input {
+    width: 900px;
+    height: 30px;
+    text-align: left;
+}
+
 #PortfolioMe {
     float: left;
     margin-left: 30px;
@@ -146,3 +165,4 @@ footer {
     width: 900px;
     line-height: 4;
 }
+
