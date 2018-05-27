@@ -136,27 +136,44 @@ footer {
     line-height: 4;
 }
 
-#button1 {
-    color: #ffffff;
-    background: #4aaaa5;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-right: 850px;
-}
-
 #Contactlist {
     line-height: 1;
     padding-bottom: 1px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#NameTab {
+    margin-bottom: -20px;
+}
+
+#EmailTab {
+    margin-bottom: -20px;
+}
+
+#MessageTab {
+    margin-bottom: -20px;
+}
+
+#MessageBox {
+    width: 900px;
+    height: 100px;
+    text-align: left;
 }
 
 input {
     width: 900px;
     height: 30px;
-    text-align: left;
+    text-align: left;   
 }
 
-#Message {
-     height: 300px;
+#button1 {
+    color: #ffffff;
+    background: #4aaaa5;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 840px;
+    padding: 10px;
 }
 
 #PortfolioMe {
