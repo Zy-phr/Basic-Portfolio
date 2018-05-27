@@ -157,14 +157,15 @@ footer {
 
 #MessageBox {
     width: 900px;
-    height: 100px;
+    height: 200px;
     text-align: left;
+    border-color: #cccccc;
 }
 
 input {
     width: 900px;
     height: 30px;
-    text-align: left;   
+    text-align: left; 
 }
 
 #button1 {
@@ -172,8 +173,12 @@ input {
     background: #4aaaa5;
     margin-bottom: 20px;
     margin-top: 20px;
-    margin-right: 840px;
-    padding: 10px;
+    margin-right: 815px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+
 }
 
 #PortfolioMe {
