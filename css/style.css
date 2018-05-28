@@ -9,18 +9,28 @@ body {
     background: #ffffff;
 }
 
+a {
+    text-decoration: none;
+    color: #cccccc;
+    font-family: 'Arial', 'Helvetica Neue', Helvetoca, sans-serif;
+    margin-left: 30px;
+}
+
 h2 {
     font-family: 'Georgia', Times,Times New Roman, serif;
     color: #4aaaa5;
     font-size: 25px;
+   
 }
 
 #Name {
     color:#ffffff;
-    background: #4aaaa5;
     float: middle;
     padding:16px; 
     font-size: 25px;
+    background: #4aaaa5;
+    margin-right: 480px; 
+    margin-left: -60px;
 }
 
 #About {
@@ -47,7 +57,9 @@ h2 {
 
 .tab {
     font-family: 'Arial', 'Helvetica Neue', Helvetoca, sans-serif;
+
 }
+
 
 li {
     display: inline;
