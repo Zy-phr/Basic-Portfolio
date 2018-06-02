@@ -13,14 +13,12 @@ body {
     height: 100%;
     display: flex;
     flex-direction: column;
-    font-family: 'Arial', 'Helvetica Neue', Helvetoca, sans-serif;
-    
+    font-family: 'Arial', 'Helvetica Neue', Helvetoca, sans-serif;  
 }
 
 header {
     width: 960px;
-    margin: 0 auto;
-    
+    margin: 0 auto;  
 }
 
 nav {
@@ -38,7 +36,6 @@ a.portfolio {
     padding: 0 15px;
     border-right: 2px solid #cccccc;
     border-left: 2px solid #cccccc;
-
 }
 
 nav a:hover {
@@ -51,8 +48,7 @@ h2 {
     font-size: 25px;
     font-weight: 400;
     border-bottom: 2px solid #ccc;
-    padding-bottom: 10px;
-   
+    padding-bottom: 10px;  
 }
 
 h1 {
@@ -65,7 +61,6 @@ h1 {
     font-family: 'Georgia', Times,Times New Roman, serif;
     font-weight: 400;
 }
-
 
 div.wrapper {
     flex: 1 0 auto;
@@ -90,17 +85,6 @@ section {
     border-color: #cccccc
 }
 
-/* #AboutMe {
-    float: left;
-    margin-left: 30px;
-    margin-top: 0px;
-    text-align: left;
-    border-bottom-style: solid;
-    border-bottom-color: #cccccc;
-    width: 900px;
-    line-height: 4;
-} */
-
 #profile {
     margin-top: 10px;
     float: left;
@@ -110,9 +94,7 @@ section {
 }
 
 p {
-
     line-height: 2;
-
 }
 
 footer {
@@ -124,7 +106,6 @@ footer {
 }
 
 footer p {
-    
     margin: 0;
     color: #ffffff;
     font-size: 0.7em;
@@ -132,14 +113,10 @@ footer p {
     text-align: center;
 }
 
-
- 
-
 input, textarea {
     width: 100%;
     padding: 10px;
     margin: 10px 0;
-
 }
 
 button {
