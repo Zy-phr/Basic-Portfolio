@@ -137,8 +137,6 @@ img {
     margin-right: 20px;
     width: 250px;
     float: left;
-    
-
 }
 
 h3 {
@@ -147,9 +145,7 @@ h3 {
     display: inline-block;
     margin-right: 900px;
     margin-top: -10px;
-
-
-
+    bottom: 20px;
 }
 
 
