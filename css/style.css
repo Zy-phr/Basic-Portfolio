@@ -138,9 +138,12 @@ img {
 
 h3 {
     background-color: #4aaaa5;
+    color: #ffffff;
     display: inline-block;
     margin-right: 900px;
     margin-top: -10px;
+    font-family: 'Georgia', Times,Times New Roman, serif;
+    font-weight: 400;
 }
 
 .right {
@@ -155,23 +158,23 @@ h3 {
 }
 
 #RPG {
-    padding: 10px 105px;
+    padding: 10px 106px;
 }
 
 #Sports {
-    padding: 10px 95px;
-    margin-top: -120px;
+    padding: 10px 98px;
+    margin-top: -60px;
 }
 
 #School {
-    padding: 10px 94px;
+    padding: 10px 97.5px;
 }
 
 #Gaming {
-    padding: 10px 90px;
-    margin-top: -120px;
+    padding: 10px 92px;
+    margin-top: -60px;
 }
 
 #Workout {
-    padding: 10px 87.5px;
+    padding: 10px 88.5px;
 }
