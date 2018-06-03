@@ -28,14 +28,14 @@ nav {
 
 a {
     text-decoration: none;
-    color: #cccccc;
+    color: #777777;
 }
 
 a.portfolio {
     margin: 0 15px;
     padding: 0 15px;
     border-right: 2px solid #cccccc;
-    border-left: 2px solid #cccccc;
+    border-left: 2px solid #ccc;
 }
 
 nav a:hover {
