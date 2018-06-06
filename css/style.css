@@ -134,6 +134,7 @@ button {
 img {
     margin-bottom: 10px;
     width: 250px;
+    position: relative;
 }
 
 h3 {
@@ -148,33 +149,49 @@ h3 {
 
 .right {
     float: right;
-    margin-top:-222.5px;
+    margin-top:-176.5px;
     margin-right: 350px;
 }
 
 .left {
-    float: left;
+    /* float: left; */
     margin-top: 20px;
 }
 
 #RPG {
     padding: 10px 106px;
+    position: absolute;
+    left: 187px;
+    bottom: 824px;
+
 }
 
 #Sports {
-    padding: 10px 98px;
+    padding: 10px 98.5px;
     margin-top: -60px;
+    position: absolute;
+    left: 485px;
+    bottom: 824px;
 }
 
 #School {
     padding: 10px 97.5px;
+    position: absolute;
+    left: 187px;
+    bottom: 627px;
 }
 
 #Gaming {
     padding: 10px 92px;
     margin-top: -60px;
+    position: absolute;
+    left: 485px;
+    bottom: 627px;
 }
 
 #Workout {
     padding: 10px 88.5px;
+    position: absolute;
+    left: 187px;
+    bottom: 430px;
 }
