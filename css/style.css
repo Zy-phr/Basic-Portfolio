@@ -134,6 +134,7 @@ button {
 img {
     margin-bottom: 10px;
     width: 250px;
+    height: 175px;
     position: relative;
 }
 
@@ -149,49 +150,51 @@ h3 {
 
 .right {
     float: right;
-    margin-top:-176.5px;
-    margin-right: 350px;
+    margin-top:-189.5px;
+    margin-right: 325px;
+   
 }
 
 .left {
-    /* float: left; */
     margin-top: 20px;
+   
+}
+
+#MMO {
+    padding: 10px 100.5px;
+    position: absolute;
+    left: 187px;
+    bottom: 814px;
+
+
+}
+
+#Coding {
+    padding: 10px 95.5px;
+    margin-top: -60px;
+    position: absolute;
+    left: 510px;
+    bottom: 814px;
+}
+
+#escapeRoom {
+    padding: 10px 96px;
+    position: absolute;
+    left: 187px;
+    bottom: 607px;
+}
+
+#Ideas {
+    padding: 10px 102.5px;
+    margin-top: -60px;
+    position: absolute;
+    left: 510px;
+    bottom: 607px;
 }
 
 #RPG {
     padding: 10px 106px;
     position: absolute;
     left: 187px;
-    bottom: 824px;
-
-}
-
-#Sports {
-    padding: 10px 98.5px;
-    margin-top: -60px;
-    position: absolute;
-    left: 485px;
-    bottom: 824px;
-}
-
-#School {
-    padding: 10px 97.5px;
-    position: absolute;
-    left: 187px;
-    bottom: 627px;
-}
-
-#Gaming {
-    padding: 10px 92px;
-    margin-top: -60px;
-    position: absolute;
-    left: 485px;
-    bottom: 627px;
-}
-
-#Workout {
-    padding: 10px 88.5px;
-    position: absolute;
-    left: 187px;
-    bottom: 430px;
+    bottom: 397px;
 }
