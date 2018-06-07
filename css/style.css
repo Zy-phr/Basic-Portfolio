@@ -164,36 +164,36 @@ h3 {
 #MMO {
     padding: 10px;
     position: absolute;
-    left: 187px;
-    bottom: 809px;
+    left: 191px;
+    bottom: 203px;
 }
 
 #Coding {
     padding: 10px;
     margin-top: -60px;
     position: absolute;
-    left: 510px;
-    bottom: 809px;
+    left: 514px;
+    bottom: 203px;
 }
 
 #escapeRoom {
     padding: 10px;
     position: absolute;
-    left: 187px;
-    bottom: 602px;
+    left: 191px;
+    bottom: -6px;
 }
 
 #Ideas {
     padding: 10px;
     margin-top: -60px;
     position: absolute;
-    left: 510px;
-    bottom: 602px;
+    left: 514px;
+    bottom: -6px;
 }
 
 #RPG {
     padding: 10px;
     position: absolute;
-    left: 187px;
-    bottom: 392px;
+    left: 191px;
+    bottom: -215px;
 }
